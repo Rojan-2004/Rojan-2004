@@ -1,13 +1,212 @@
-<h1 align="center">Hi 👋, I'm Rojan Mainali</h1>
-<h3 align="center">A passionate fullStack developer from Nepal</h3>
+<h1 align="center">Hi , I'm Rojan Mainali</h1>
 
-- 🔭 I’m currently working on **Mechanics Management Systems**
+<h3 align="center">Web & Mobile Application Developer from Nepal</h3>
 
-- 💬 Ask me about **react/python/android development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/Rojan-2004">
+    <img src="https://komarev.com/ghpvc/?username=Rojan-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Rojan Mainali" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## About Me
+
+I'm a **Computer Science undergraduate** with a strong interest in building modern web and mobile applications.
+
+I enjoy developing practical, user-focused applications and working across both frontend and backend technologies. My current focus is on **full-stack web development, Flutter mobile development, REST APIs, database integration, and application architecture**.
+
+* Currently working on **Aqua Life — Full-Stack E-Commerce Platform**
+* Building applications with **React, Next.js, Flutter, Node.js and MongoDB**
+* Interested in **full-stack development, mobile applications and software architecture**
+* Experienced with **REST APIs, JWT authentication, database integration and state management**
+* Currently improving my skills through academic and real-world projects
+* Based in **Nepal**
+
+---
+
+## What I Work With
+
+### Frontend Development
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+</a>
+</p>
+
+### Mobile Development
+
+<p align="left">
+<a href="https://flutter.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+</a>
+<a href="https://dart.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
+</a>
+</p>
+
+### Backend & Database
+
+<p align="left">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+</a>
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</a>
+</p>
+
+---
+
+## Featured Projects
+
+### Aqua Life — E-Commerce Platform
+
+A full-stack aquarium e-commerce platform designed for purchasing fish and aquarium products.
+
+The platform includes:
+
+* Product catalogue
+* User authentication
+* Product reviews and comments
+* Shopping and order management
+* Admin dashboard
+* User management
+* Order status management
+* Revenue tracking
+* REST API integration
+* Web and mobile applications using a shared backend
+
+**Tech Stack:**
+`Next.js` `React` `Flutter` `Dart` `Node.js` `Express.js` `MongoDB` `JWT` `Riverpod`
+
+🔗 **Repository:** [AquaLife — E-Commerce Platform](https://github.com/Rojan-2004/AquaLife---Ecommerce-platform)
+
+---
+
+### BudgetLens Nepal
+
+A civic-focused web application designed to make government budget and project information easier to understand and explore.
+
+The project focuses on presenting budget and project-related information through a simple and accessible web interface.
+
+**Tech Stack:**
+`React` `Node.js` `JavaScript` `REST API` `Data Processing`
+
+---
+
+### Football Athlete Injury Prediction System
+
+An academic predictive analytics project focused on analysing factors associated with football athlete injury risk.
+
+The project explores factors including:
+
+* Training load
+* Sleep patterns
+* Age
+* Match frequency
+* Previous injury history
+
+Machine-learning approaches include **Random Forest, XGBoost and Neural Networks**.
+
+**Tech Stack:**
+`Python` `Machine Learning` `Data Analysis` `Random Forest` `XGBoost` `Neural Networks`
+
+---
+
+## Development Focus
+
+```text
+Web Development        ███████████████████░░   React / Next.js
+Mobile Development     ██████████████████░░░   Flutter / Dart
+Backend Development    █████████████████░░░░   Node.js / Express
+Database               ████████████████░░░░░   MongoDB / MySQL
+API Development        █████████████████░░░░   REST APIs
+UI/UX                   ███████████████░░░░░░   Figma
+```
+
+---
+
+## Currently Learning
+
+* Advanced React & Next.js
+* Flutter application architecture
+* REST API development
+* Authentication & authorization
+* Clean Architecture
+* State management with Riverpod
+* Full-stack application development
+* Software testing and development practices
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rojan-2004&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rojan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rojan-2004&theme=transparent&hide_border=true" alt="Rojan's GitHub Streak" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Rojan-2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
