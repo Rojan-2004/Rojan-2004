@@ -126,17 +126,6 @@ The platform includes:
 
 ---
 
-### BudgetLens Nepal
-
-A civic-focused web application designed to make government budget and project information easier to understand and explore.
-
-The project focuses on presenting budget and project-related information through a simple and accessible web interface.
-
-**Tech Stack:**
-`React` `Node.js` `JavaScript` `REST API` `Data Processing`
-
----
-
 ### Football Athlete Injury Prediction System
 
 An academic predictive analytics project focused on analysing factors associated with football athlete injury risk.
@@ -169,30 +158,7 @@ UI/UX                   ███████████████░░░�
 
 ---
 
-## Currently Learning
 
-* Advanced React & Next.js
-* Flutter application architecture
-* REST API development
-* Authentication & authorization
-* Clean Architecture
-* State management with Riverpod
-* Full-stack application development
-* Software testing and development practices
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rojan-2004&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rojan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rojan-2004&theme=transparent&hide_border=true" alt="Rojan's GitHub Streak" />
-</p>
-
----
 
 ## Connect With Me
 
